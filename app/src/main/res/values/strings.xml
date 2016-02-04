@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Barreiro Board</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">About...</string>
+
+
+    //Files_Strings
+    //FILENAME | TEXT TO SHOW
+    <string-array name="soundStringArray">
+        <item>impresionante|IMPRESIONANTE</item>
+        <item>noperditupper|NO PERDI EL TUPPER</item>
+        <item>tieneblutu|TIENE BLUTU?</item>
+        <item>mepuedesashudar|ME PUEDES ASHUDAR?</item>
+    </string-array>
+</resources>
