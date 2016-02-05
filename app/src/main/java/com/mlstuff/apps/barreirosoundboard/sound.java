@@ -4,7 +4,7 @@ package com.mlstuff.apps.barreirosoundboard;
  * Created by Diego on 12/1/2015.
  */
 
-class Sound {
+public class Sound {
 
     private String mDescription = "";
     private String mFileName = "";
