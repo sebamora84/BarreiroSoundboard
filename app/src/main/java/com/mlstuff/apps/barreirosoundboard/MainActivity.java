@@ -11,6 +11,7 @@ import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+
 import android.widget.ListView;
 
 import java.util.ArrayList;
@@ -31,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //Get all Files Data
+        //Get all Files Data wtf?
         String[] _tempFilesArray = getResources().getStringArray(R.array.soundStringArray);
         mSounds = new ArrayList<Sound>();
         String _fileName= "";
